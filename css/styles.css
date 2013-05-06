@@ -1,0 +1,89 @@
+body {
+	background-color: #465B7B;
+	font-weight: bold;
+}
+
+h1 {
+	font: 48px/1em "Arial Black", Gadget, sans-serif;
+	text-align: center;
+	color: #900;
+	text-shadow: 5px -5px 5px #960, 5px 5px 5px #970, -5px 5px 5px #950;
+	padding: 16px;
+	border: 10px groove #900;
+}
+
+h2 {
+	font: 26px/.5em  "Arial Black", Gadget, sans-serif;
+	font-weight: bolder;
+	margin-bottom: 10px;
+	margin-left: 50px;
+	line-height: 1em;
+	margin-top: -10px;
+	border-bottom: 2px #900 solid;
+	border-left: 2px #900 solid;
+	border-radius: 60%;
+	padding: 20px;
+}
+
+p {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 16px;	
+	direction: rtl;
+}
+
+p.right {
+	direction: rtl;	
+}
+
+p.left{ 
+	direction: ltr;
+}
+
+ul{
+	list-style:none;	
+	font-family: 'Josefin Sans', sans-serif;
+	line-height: 1em;
+	color: #030;
+	border: 4px #030 groove;
+	letter-spacing: 2px;
+	padding: 10px;
+}
+
+span {
+color: #030;
+font-weight: bold;	
+}
+
+.hufflepuff {
+	padding: 10px;
+	text-align: start;
+	margin-top: 10px;
+border: 4px #000 solid;
+color: #000;
+border-radius: 15%;
+}
+
+.sytherin {
+border: 4px #030 solid;
+color: #030;
+letter-spacing: 2px;
+}
+
+.ravenclaw {
+	padding: 10px;
+border: 4px #003 double;
+color: #003;
+}
+
+.griffindor {
+border: 4px #900 solid;
+color: #900;
+}
+
+section {
+	
+}
+
+.bg {
+	
+}
